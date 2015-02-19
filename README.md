@@ -1,2 +1,2 @@
-This contains a simple Hello World Python WebApp.
+This contains a Hello World Python WebApp & it's corresponding Dockerfile for testing purposes.
 
